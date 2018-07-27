@@ -35,5 +35,5 @@ weight = 5
 
 # About Me
 
-I am a PhD Candidate in the department of Forest Ecosystems and Society at Oregon State University. My research is focused on overlapping disturbances of mountain pine beetle outbreak and wildfire. I have served as the president for the OSU Chapter of the Student Association for Fire Ecology (Pyro-maniacs), which discusses and critics fire ecology related research throughout the academic year. In my free time, I can be found trail running, hiking, and/or training for triathlons, outside time is the best time.
+I am a PhD Candidate in the department of Forest Ecosystems and Society at Oregon State University. My research is focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. I recently finished serving as the president for the OSU Chapter of the Student Association for Fire Ecology (Pyro-maniacs), which discusses fire ecology related research throughout the academic year. In my free time, I can be found trail running, hiking, and/or training for triathlons, outside time is the best time.
 

@@ -1,6 +1,6 @@
 +++
 title = "Lodgepole pine recruitment post outbreak & wilfire"
-date = 2018-07-08T14:30:00  # Schedule page publish date.
+#date = 2018-07-08T14:30:00  # Schedule page publish date.
 draft = true
 
 # Talk start and end times.

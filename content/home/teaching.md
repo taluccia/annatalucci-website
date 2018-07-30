@@ -14,7 +14,6 @@ subtitle = ""
 weight = 60
 
 +++
-
 Adjuct Instructor:
 
 - GEOL 304: Introduction to GIS and GPS, Mariette College

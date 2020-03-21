@@ -1,5 +1,5 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
+title = "Dead forests burning: the influence of beetle outbreaks on fire severity and legacy structure in sub‐boreal forests"
 date = 2015-09-01T00:00:00
 draft = true
 
@@ -18,11 +18,11 @@ authors = ["A.C. Talucci, M.A. Krawchuk"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Ecosphere*, IEEE."
-publication_short = "In *SITIS*"
+publication = "In *Ecosphere*."
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2744"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

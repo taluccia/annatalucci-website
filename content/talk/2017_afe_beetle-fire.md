@@ -1,7 +1,7 @@
 +++
 title = "The influence of beetle outbreaks on wildfire severity "
 #date = 2017-11-30T09:15:00  # Schedule page publish date.
-draft = false
+draft = true
 abstract = "Dead forest burning: the influence of beetle outbreaks on fire severity in lodgepole pine forest of British Columbia"
 abstract_short = ""
 event = "7th International Fire Ecology and Management Congress"

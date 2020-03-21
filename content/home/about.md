@@ -19,7 +19,10 @@ weight = 5
 
 
 # List your qualifications (such as academic degrees).
-
+[[education.courses]]
+  course = "PhD in Forest Ecosystems and Society"
+  institution = "Oregon State University"
+  year = 2019
 
 [[education.courses]]
   course = "MA in Geography"
@@ -35,5 +38,5 @@ weight = 5
 
 # About Me
 
-I am a PhD Candidate in the department of Forest Ecosystems and Society at Oregon State University. My research is focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. I recently finished serving as the president for the OSU Chapter of the Student Association for Fire Ecology (Pyro-maniacs), which discusses fire ecology related research throughout the academic year. In my free time, I can be found trail running, hiking, and/or training for triathlons, outside time is the best time.
+I am a postdoctoral research and teaching fellow at Colgate Univeristy. My current research focuses using remote sensing applications to evaluate the extent and effects of wildfire across eastern Siberia, Russia. My PhD research focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. In my free time, I can be found trail running, hiking, and training for triathlons, outside time is the best time.
 

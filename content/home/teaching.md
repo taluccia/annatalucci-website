@@ -14,20 +14,22 @@ subtitle = ""
 weight = 60
 
 +++
-Adjuct Instructor:
+Instructor of record:
 
-- GEOL 304: Introduction to GIS and GPS, Mariette College
+- Satellite Image Analysis (GEOG 347), Colgate University
+- Introduction to GIS and GPS (GEOL 304), Mariette College
 
 Teaching Assistant:  
 
-- FES 440: Fire Ecology, Oregon State University
-- GEOG 215: Biogeography, Simon Fraser University
-- GEOG 111: Earth Systems, Simon Fraser University
-- GEOG 1201: Earth Systems Atmosphere, University of Denver
-- GEOG 1202: Earth Systems Hydrosphere, University of Denver
-- GEOG 1203: Earth Systems Geosphere, University of Denver
+- Wildland Fire Ecology (FES 440), Oregon State University
+- Biogeography (GEOG 215), Simon Fraser University
+- Earth Systems (Geog 111), Simon Fraser University
+- Earth Systems (GEOG 1201, 1202, 1203), University of Denver
+
 
 Senior Faculty:
 
 - Expeditionary placed-based education and faciliation with NOLS.
 
+High School Seminar
+- Pyrogeography,  Colgate University

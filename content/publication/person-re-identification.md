@@ -1,10 +1,10 @@
 +++
 title = "A Person Re-Identification System For Mobile Devices"
 date = 2015-09-01T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["A.C. Talucci, M.A. Krawchuk"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
+publication = "In *Ecosphere*, IEEE."
 publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.

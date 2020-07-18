@@ -38,5 +38,5 @@ weight = 5
 
 # About Me
 
-I am a postdoctoral research and teaching fellow at Colgate Univeristy. My current research focuses using remote sensing applications to evaluate the extent and effects of wildfire across eastern Siberia, Russia. My PhD research focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. In my free time, I can be found trail running, hiking, and training for triathlons, outside time is the best time.
+I am a postdoctoral research and teaching fellow at Colgate Univeristy. My current research focuses using remote sensing applications to evaluate the extent and effects of wildfire across northeastern Siberia, Russia. My PhD research focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. In my free time, I can be found trail running, hiking, and training for triathlons, outside time is the best time.
 

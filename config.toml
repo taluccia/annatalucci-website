@@ -4,18 +4,25 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
+# Title of your site
+title = "Anna C. Talucci"
+
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://annatalucci.rbind.io/"
 
-# Title of your site
-title = "Anna C. Talucci"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Anna Talucci {year}"
 
+############################
+## Advanced options below ##
+############################
+
+# Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
+
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

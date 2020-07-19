@@ -1,87 +1,87 @@
 - id: toggle_navigation
-  translation: Attiva la navigazione
+  translation: Barra de navegació
 - id: table_of_contents
-  translation: Indice dei Contenuti
+  translation: Index
 - id: on_this_page
-  translation: In questa pagina
+  translation: On this page
 - id: back_to_top
-  translation: Torna su
+  translation: Back to top
 - id: related
-  translation: Correlato
+  translation: Relacionat
 - id: minute_read
-  translation: minuti
+  translation: min de lectura
 - id: previous
-  translation: Precedente
+  translation: Anterior
 - id: next
-  translation: Prossimo
+  translation: Següent
 - id: figure
-  translation: 'Immagine %d:'
+  translation: 'Figura %d:'
 - id: btn_preprint
-  translation: Preprint
+  translation: Preimpresió
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: Citazione
+  translation: Cita
 - id: btn_slides
-  translation: Slides
+  translation: Diapositives
 - id: btn_video
-  translation: Video
+  translation: Vídeo
 - id: btn_code
-  translation: Codice
+  translation: Códi
 - id: btn_dataset
-  translation: Dataset
+  translation: Dades
 - id: btn_project
-  translation: Progetti
+  translation: Projecte
 - id: btn_poster
   translation: Poster
 - id: btn_source
-  translation: Sorgente
+  translation: Font
 - id: btn_copy
   translation: Copia
 - id: btn_download
-  translation: Download
+  translation: Baixa
 - id: interests
-  translation: Interessi
+  translation: Interessos
 - id: education
-  translation: Formazione
+  translation: Educació
 - id: user_profile_latest
   translation: Latest
 - id: see_certificate
-  translation: Guarda il certificato
+  translation: See certificate
 - id: present
   translation: Present
 - id: more_pages
   translation: See all
 - id: more_posts
-  translation: Altri Post
+  translation: Més entrades
 - id: more_talks
-  translation: Altre Conferenze
+  translation: Més xerrades
 - id: more_publications
-  translation: Altre pubblicazioni
+  translation: Més publicacions
 - id: contact_name
-  translation: Nome
+  translation: Name
 - id: contact_email
   translation: Email
 - id: contact_message
-  translation: Messaggio
+  translation: Message
 - id: contact_send
-  translation: Invio
+  translation: Send
 - id: book_appointment
-  translation: Richiedi un appuntamento
+  translation: Book an appointment
 - id: abstract
-  translation: Abstract
+  translation: Resum
 - id: publication
-  translation: Publicazione
+  translation: Publicació
 - id: publication_type
-  translation: Tipo
+  translation: Tipus
 - id: date
   translation: Data
 - id: last_updated
-  translation: Aggiornato il
+  translation: Última actualizació el
 - id: event
-  translation: Evento
+  translation: Event
 - id: location
-  translation: Luogo
+  translation: Ubicació
 - id: pub_uncat
   translation: Uncategorized
 - id: pub_conf
@@ -93,38 +93,38 @@
 - id: pub_report
   translation: Report
 - id: pub_book
-  translation: Libro
+  translation: Book
 - id: pub_book_section
-  translation: Sezione Libro
+  translation: Book section
 - id: pub_thesis
   translation: Thesis
 - id: pub_patent
   translation: Patent
 - id: open_project_site
-  translation: Apri il sito del Progetto
+  translation: Obre el lloc del web del projecte
 - id: posts
-  translation: Post
+  translation: Entrada
 - id: publications
-  translation: Pubblicazioni
+  translation: Publicació
 - id: talks
-  translation: Conferenze
+  translation: Conferència
 - id: projects
-  translation: Progetti
+  translation: Projectes
 - id: search
-  translation: Cerca
+  translation: Search
 - id: search_placeholder
-  translation: Cerca...
+  translation: Search...
 - id: search_results
-  translation: Risultati della ricerca
+  translation: results found
 - id: search_no_results
-  translation: Nessun risultato
+  translation: No results found
 - id: page_not_found
-  translation: Pagina non trovata
+  translation: No s'ha trobat la pàgina
 - id: 404_recommendations
-  translation: Forse stavate carcando uno di questi?
+  translation: Buscaves alguna d'aquestes?
 - id: cookie_message
-  translation: Questo sito usa i cookies per garantire la migliore esperienza di navigazione.
+  translation: Aquet lloc web fa servir cookies per garantitzar una millor experiència.
 - id: cookie_dismiss
-  translation: Ok!
+  translation: D'acord
 - id: cookie_learn
-  translation: Leggi i dettagli
+  translation: Més informació

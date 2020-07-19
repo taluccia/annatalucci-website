@@ -1,49 +1,49 @@
 - id: toggle_navigation
-  translation: Buka navigasi
+  translation: ナビゲーションの切り替え
 - id: table_of_contents
-  translation: Daftar isi
+  translation: 目次
 - id: on_this_page
   translation: On this page
 - id: back_to_top
   translation: Back to top
 - id: related
-  translation: Terkait
+  translation: 関連項目
 - id: minute_read
-  translation: menit untuk membaca
+  translation: 分で読める
 - id: previous
-  translation: Sebelumnya
+  translation: 前へ
 - id: next
-  translation: Selanjutnya
+  translation: 次へ
 - id: figure
-  translation: 'Figure %d:'
+  translation: '図 %d:'
 - id: btn_preprint
-  translation: Pracetak
+  translation: プレプリント
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: Sitasi
+  translation: 引用
 - id: btn_slides
-  translation: Presentasi
+  translation: スライド
 - id: btn_video
-  translation: Video
+  translation: 動画
 - id: btn_code
-  translation: Skrip Kode
+  translation: コード
 - id: btn_dataset
-  translation: Dataset
+  translation: データセット
 - id: btn_project
-  translation: Proyek
+  translation: プロジェクト
 - id: btn_poster
-  translation: Poster
+  translation: ポスター
 - id: btn_source
-  translation: Sumber dokumen
+  translation: ソース
 - id: btn_copy
-  translation: Salin
+  translation: コピー
 - id: btn_download
-  translation: Unduh
+  translation: ダウンロード
 - id: interests
-  translation: Minat
+  translation: 興味・関心
 - id: education
-  translation: Pendidikan
+  translation: 学歴
 - id: user_profile_latest
   translation: Latest
 - id: see_certificate
@@ -53,11 +53,11 @@
 - id: more_pages
   translation: See all
 - id: more_posts
-  translation: Tulisan lainnya
+  translation: 投稿一覧
 - id: more_talks
-  translation: Presentasi lainnya
+  translation: 登壇一覧
 - id: more_publications
-  translation: Publikasi lainnya
+  translation: 発表文献一覧
 - id: contact_name
   translation: Name
 - id: contact_email
@@ -69,19 +69,19 @@
 - id: book_appointment
   translation: Book an appointment
 - id: abstract
-  translation: Abstrak
+  translation: 概要
 - id: publication
-  translation: Publikasi
+  translation: 収録
 - id: publication_type
-  translation: Jenis
+  translation: タイプ
 - id: date
-  translation: Tanggal
+  translation: 日付
 - id: last_updated
-  translation: Terakhir diperbaharui
+  translation: 最終更新
 - id: event
-  translation: Acara
+  translation: イベント
 - id: location
-  translation: Lokasi
+  translation: 場所
 - id: pub_uncat
   translation: Uncategorized
 - id: pub_conf
@@ -101,30 +101,30 @@
 - id: pub_patent
   translation: Patent
 - id: open_project_site
-  translation: Ke laman proyek
+  translation: プロジェクトのサイトへ
 - id: posts
-  translation: Tulisan
+  translation: 投稿
 - id: publications
-  translation: Publikasi
+  translation: 発表文献
 - id: talks
-  translation: Presentasi
+  translation: 登壇
 - id: projects
-  translation: Proyek
+  translation: プロジェクト
 - id: search
   translation: Search
 - id: search_placeholder
-  translation: Search...
+  translation: 検索...
 - id: search_results
   translation: results found
 - id: search_no_results
-  translation: No results found
+  translation: 結果が見つかりませんでした
 - id: page_not_found
-  translation: Laman tidak ditemukan
+  translation: ページが見つかりませんでした
 - id: 404_recommendations
-  translation: Apakah ini yang Anda cari?
+  translation: あなたが探しているものはこれらの中にあるかもしれません
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: このウェブサイトはあなたが最高の体験を得るためにクッキーを使用します。
 - id: cookie_dismiss
-  translation: Got it!
+  translation: はい
 - id: cookie_learn
-  translation: Learn more
+  translation: 詳細を見る

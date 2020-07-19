@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   title = "Paper"
   url = "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2744"
   certificate_url = ""
-  date_start = "2019-04-19"
+  date_start = "2019-05-17"
   date_end = ""
   description = "Dead forests burning: the influence of beetle outbreaks on fire severity and legacy structure in sub-boreal forests"
   

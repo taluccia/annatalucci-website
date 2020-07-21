@@ -45,6 +45,6 @@ social:
 superuser: true
 ---
 
-I am a postdoctoral research and teaching fellow. Currently my research focuses on using satellite imagery to map and characterize wildfire in northeastern Siberia. I have taught satellite image analysis and introduction to GIS. I am excited to work with undergratuate students that are interested in using satellite imagery to ask nd answer spatial temporal research questions. In my free time I can be found outside running, hiking, biking, outside time is the best time. 
+I am a postdoctoral research and teaching fellow at [Colgate University](https://www.colgate.edu/). I completed my Ph.D. in [Forest Ecosystems and Society](https://fes.forestry.oregonstate.edu/) at [Oregon State Univeristy](https://oregonstate.edu/) in 2019. My research focuses on landscape-scale disturbances and the environmental processes that drive disturbances patterns. I have worked extensively in high education and as an outdoor educator. I am excited about mentoring students on research projects. In my free time, I can be found outside running, hiking, biking, outside time is the best time. 
 
 

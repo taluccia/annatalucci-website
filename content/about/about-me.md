@@ -51,18 +51,22 @@ subtitle = ""
 
 
 
-I received my PhD in forest ecosystems and society from Oregon State University in 2019. Currently, I am a Post-doctoral research and teaching fellow at Colgate University.
 
-<img src="bc_fire1.jpg" class="center-block" alt="Beetle + Fire British Columbia 2016" style="width:60%;">
+My research is focused on landscape-scale disturbances and the nuances of disturbance regimes under changing climate. I use a variety of geospatial techniques to characterize and understand patterns that unfold across landscapes and the biotic and abiotic processes that drive them.
 
 
-My research focuses on landscape scale disturbances. I am a postdoctoral research and teaching fellow at Colgate Univeristy. My current research focuses using remote sensing applications to evaluate the extent and effects of wildfire across northeastern Siberia, Russia. My PhD research focused on overlapping disturbances of mountain pine beetle outbreak and wildfire in British Columbia, Canada. In my free time, I can be found trail running, hiking, and training for triathlons, outside time is the best time.
+<img src="2020-fire-sent2.jpg" class="center-block" alt="Students Field" style="width:60%;">
 
-<img src="trex_or.jpg" class="center-block" alt="Students Field" style="width:60%;">
+Currently, I am working on mapping and characterizing wildfire across northeastern Siberia. This research harnesses the advances in computing and geospatial technology by using the cloud computing of [Google Earth Engine](https://earthengine.google.com/). We are using the [Landsat](https://landsat.gsfc.nasa.gov/) satellite imagery to map and characterize area burned and fire severity. We are also using Unmanned Aerial Vehicles (UAVs) to look at fine-scale measures of [vegetation indices](https://www.usgs.gov/land-resources/eros/phenology/science/vegetation-indices#:~:text=On%20the%20Ground-,Vegetation%20Indices,and%20reflected%20by%20green%20plants.&text=The%20leaves%20themselves%20strongly%20reflect,is%20invisible%20to%20human%20eyes.) to examine edge effects and plant assemblages.
 
-I am an avid user of the statistical programming language R, Google Earth Engine, and ArcGIS. I developed a passion for programming and education, and have taught satellite image analysis with Google Earth Engine while at [Colgate University](https://colgate.edu).
+<img src="bc_fire2.jpg" class="center-block" alt="Beetle + Fire British Columbia 2016" style="width:60%;">
+
+My Ph.D. research focused on short-interval disturbances where substantial tree mortality from mountain pine beetle outbreaks are followed in short succession by wildfire in central interior British Columbia, Canada. This research uses both field data and satellite image analysis. We found that forest with substantial tree mortality burns differently, while also having a substantial seedbank for lodgepole pine regeneration.
+
+<img src="trex_or1.jpg" class="center-block" alt="Students Field" style="width:60%;">
+
+I am an avid user of the [statistical programming language R](https://www.r-project.org/), [Google Earth Engine](https://earthengine.google.com/), and ArcGIS. I have taught satellite image analysis and introduction to GIS. I am excited to work with undergraduate students interested in using satellite imagery to ask and answer spatial-temporal research questions.
 
 <img src="students2.jpg" class="center-block" alt="Students Field" style="width:60%;">
 
-I have worked extensively as an outdoor educator with [NOLS](https://nols.edu) and [Outward Bound](https://www.hiobs.org/). I integrate placed based and experiential learning into my classrooms.
-
+I have worked extensively as an outdoor educator with [NOLS](https://nols.edu) and [Outward Bound](https://www.hiobs.org/). I integrate placed based and experiential learning into my classrooms. I incorporate sound risk management practices in my fieldwork campaigns.

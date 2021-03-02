@@ -12,7 +12,7 @@ education:
     year: 2011
   - course: BSc in Geography & Earth Systems Science
     institution: University of Massachusetts
-    year: 2003
+    year: 2004
 email: ""
 interests:
 - Landscape Ecology

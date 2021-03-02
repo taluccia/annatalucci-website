@@ -17,9 +17,9 @@ email: ""
 interests:
 - Landscape Ecology
 - Remote Sensing
-- Data analysis
-- Data visualization
-- Machine learning
+- Disturbance Ecology
+- Data Analysis
+- Fire Ecology
 - Spatial Statistics
 name: Anna Talucci
 organizations:

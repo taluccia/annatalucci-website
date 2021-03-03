@@ -44,6 +44,6 @@ social:
 superuser: true
 ---
 
-I am a postdoctoral research and teaching fellow at [Colgate University](https://www.colgate.edu/). I completed my Ph.D. in [Forest Ecosystems and Society](https://fes.forestry.oregonstate.edu/) at [Oregon State Univeristy](https://oregonstate.edu/) in 2019. My research focuses on landscape-scale disturbances and the environmental processes that drive disturbance patterns. I have worked extensively in higher education and as an outdoor educator. I am excited about mentoring students on research projects. In my free time, I can be found outside running, hiking, and biking. For me, outside time is the best time. 
+I am a postdoctoral research and teaching fellow at [Colgate University](https://www.colgate.edu/). I completed my Ph.D. in [Forest Ecosystems and Society](https://fes.forestry.oregonstate.edu/) at [Oregon State Univeristy](https://oregonstate.edu/) in 2019. My research focuses on landscape-scale disturbances and the environmental processes that drive disturbance patterns. I have worked extensively in higher education and as an outdoor educator. I am excited about mentoring students on research projects. In my free time, I can be found outside running, cross country skiing, hiking, and biking. For me, outside time is the best time. 
 
 

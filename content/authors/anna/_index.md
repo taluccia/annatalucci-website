@@ -19,7 +19,6 @@ interests:
 - Remote Sensing
 - Disturbance Ecology
 - Data Analysis
-- Fire Ecology
 - Spatial Statistics
 name: Anna Talucci
 organizations:

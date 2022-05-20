@@ -69,4 +69,4 @@ I am an avid user of the [statistical programming language R](https://www.r-proj
 
 <img src="students2.jpg" class="center-block" alt="Students Field" style="width:60%;">
 
-I have worked extensively as an outdoor educator with [NOLS](https://nols.edu) and [Outward Bound](https://www.hiobs.org/). I integrate placed based and experiential learning into my classrooms. I incorporate current risk management practices in my fieldwork campaigns.
+I have worked extensively as an outdoor educator with [NOLS](https://nols.edu), [Inspiring Girls Expeditions](https://www.inspiringgirls.org/), and [Outward Bound](https://www.hiobs.org/). I integrate placed based and experiential learning into my classrooms. I incorporate current risk management practices in my fieldwork campaigns.
